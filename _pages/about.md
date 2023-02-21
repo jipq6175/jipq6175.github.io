@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: ML Scientist | Physicist | Cornell AEP PhD 
+subtitle: ML Scientist | Physicist | Cornell AEP PhD |
 
 profile:
   align: right
