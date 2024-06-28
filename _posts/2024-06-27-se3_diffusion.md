@@ -729,7 +729,6 @@ print('These forks are colored by the log probability, the greener the greater t
 
 {% endhighlight %}
 
-<iframe src="{{'/assets/img/posts/se3diff/se3_gaussian_prob.html'}}" frameborder='0' scrolling='yes' height="800px" width="100%" style="border: 1px dashed grey;"></iframe>
 
 <div class="col-sm mt-3 mt-md-0">
     {% include figure.html path="assets/img/posts/se3diff/se3_gaussian_prob.png" class="img-fluid rounded z-depth-1" zoomable=true %}
