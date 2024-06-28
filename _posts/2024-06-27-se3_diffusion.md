@@ -735,7 +735,7 @@ print('These forks are colored by the log probability, the greener the greater t
     {% include figure.html path="assets/img/posts/se3diff/se3_gaussian_prob.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>
 
-These forks are colored by the log probability, the greener the greater the logp < 0
+These forks are colored by the log probability, the greener the greater the $$logp < 0$$
 
 
 We have calculated the SE(3) log probability density evaluated at $$x(t)$$ or trans: $$x(t)$$ and rot: $$R(t)$$, up to a constant term. We now want to do 2 things:
